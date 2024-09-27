@@ -26,7 +26,7 @@ The following keywords are replaced with their Bangla equivalents:
 | Bangla Keyword         | C++ Equivalent      |
 |------------------------|---------------------|
 | `ashol_khela_shuru`    | `int main()`        |
-| `khela_sesh`           | `return 0;`         |
+| `khela_sesh`           | `return 0 `         |
 | `jodi`                 | `if`                |
 | `nahoy`                | `else`              |
 | `jotokkhon`            | `while`             |
@@ -79,7 +79,7 @@ The following operators are defined:
 | `soto_abar_soman`    | `<=`             |
 | `boro_abar_soman`    | `>=`             |
 | `ebong`              | `&&`             |
-| `othoba`             | `||`             |
+| `othoba`             | `\|\|`           |
 | `nai`                | `!`              |
 | `barao`              | `++`             |
 | `komao`              | `--`             |
