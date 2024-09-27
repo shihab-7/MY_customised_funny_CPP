@@ -69,8 +69,10 @@ using namespace std;
 // for i/o
 #define dekhi cout <<    // output
 #define assa_ne cin >>   // input
-#define notun_line  endl // newline
+#define notun_line endl // newline
 
 //others 
 #define lekha_shuru { //opening brace
 #define sesh }        // closing brace
+#define erpor >>     // in buffer
+#define tarpor <<   // out buffer
