@@ -29,6 +29,7 @@ The following keywords are replaced with their Bangla equivalents:
 | `khela_sesh`           | `return 0 `         |
 | `jodi`                 | `if`                |
 | `nahoy`                | `else`              |
+| `abar_jodi`            | `else if`           |
 | `jotokkhon`            | `while`             |
 | `thamish_na`           | `do`                |
 | `kono_ak_karone`       | `for`               |
@@ -46,6 +47,7 @@ The following keywords are replaced with their Bangla equivalents:
 | `mar_dhil`             | `throw`             |
 | `dhil_marish_na`       | `noexcept`          |
 | `jukto_kor`            | `#include`          |
+
 
 ## Data Types
 

@@ -15,6 +15,7 @@ using namespace std;
 #define khela_sesh return 0           // end program
 #define jodi if                       // if statement
 #define nahoy else                    //else statement
+#define abar_jodi else if            // else if statement
 #define jotokkhon while               // while loop
 #define thamish_na do                // do statement
 #define kono_ak_karone for            // for loop
@@ -31,7 +32,7 @@ using namespace std;
 #define thela_shamla catch           // catch statement
 #define mar_dhil throw               // throw statement
 #define dhil_marish_na noexcept      // noexcept keyword
-#define jukto_kor include           // includes keyword for headers
+#define jukto_kor #include           // includes keyword for headers
 
 
 //data types
